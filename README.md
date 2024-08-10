@@ -98,6 +98,8 @@ Hosting
 Frontend: Hosted on Firebase (URL provided after deployment).
 Backend: Hosted on Heroku at https://secure-fjord-35194-c6c27ccf70dc.herokuapp.com/.
 
+Telegram bot can be found on link https://t.me/MrGamblerBot by username @MrGamblerBot
+
 
 
 
